@@ -1,0 +1,123 @@
+.division-line {
+  background-color: #8f8f8f;
+  height: 1px;
+  width: 40%;
+}
+
+.img-404 {
+  margin: 0 30%;
+  width: 400px;
+  height: 400px;
+}
+
+.div-404 {
+  margin: 0 auto;
+  align-items: center;
+  width: 70%;
+}
+
+.tittle-404 {
+  text-align: center;
+}
+
+.success-icon {
+  margin-left: 100px;
+}
+
+.success-message {
+  font-size: 48px;
+  font-weight: bold;
+  margin-left: 90px;
+}
+
+.go-back_arrow {
+  width: 40px;
+  height: 40px;
+  color: white;
+  margin: auto auto;
+}
+
+.arrow-image {
+  margin: auto 12px;
+  padding: 0 0;
+  width: 40px;
+  height: 40px;
+}
+
+.save-button {
+  width: 90px;
+  height: 40px;
+}
+
+.last {
+  margin-bottom: 3px;
+}
+
+.location-small-title {
+  margin-left: 32px;
+}
+
+.category-occorences {
+  margin: 62px auto 69px auto;
+}
+
+.occorence-location_detail {
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.citizen-obs_text {
+  font-size: 22px;
+  color: #68717a;
+  text-align: center;
+  width: 590px;
+  margin: 95px auto 60px auto;
+}
+
+.citizen-obs_date {
+  font-size: 18px;
+  color: #68717a;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.input-detail_occorence {
+  margin-top: 60px;
+}
+
+.vetical_flex-itens {
+  margin-bottom: 25px;
+}
+
+#centralize {
+  text-align: center;
+  font-weight: 400;
+}
+
+.title-forgot_pass {
+  margin-top: 130px;
+  margin-bottom: 60px;
+}
+
+.text-forgot_pass {
+  font-size: 18px;
+  color: #68717a;
+  text-align: center;
+  margin-bottom: 100px;
+  line-height: 24px;
+}
+
+#centralize-container {
+  margin: auto auto;
+  width: 590px;
+}
+
+#input-forgot_pass {
+  margin: auto auto 56px auto;
+}
+
+.link-forgot_pass {
+  text-align: right;
+  color: #ffc233;
+}
